@@ -39,11 +39,11 @@ This is a **console-based Java application** that uses the **Spring** and **Spri
 ## How to Use
 Once the application is running, the user will be prompted with a menu to perform the following operations:
 
-1. Add Employee: Input employee details such as name, age, and department.
+1. Add Employee: Input employee details such as id, name, salary, and department.
 2. View All Employees: Displays a list of all employees.
 3. Update Employee: Select an employee by ID and update their information.
 4. Delete Employee: Remove an employee by ID.
-5. Search Employee: Search for employees by specific criteria like ID or name.
+5. Search Employee: Search for employees by specific criteria like ID .
 6. Exit: Quit the application.
 
 ## Project Structure
